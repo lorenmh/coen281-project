@@ -1,0 +1,452 @@
+[
+    {
+        "score": 0.0,
+        "s1": "AskReddit",
+        "s2": "movies"
+    },
+    {
+        "score": 0.0,
+        "s1": "AskReddit",
+        "s2": "IAmA"
+    },
+    {
+        "score": 0.0,
+        "s1": "AskReddit",
+        "s2": "worldnews"
+    },
+    {
+        "score": 0.0,
+        "s1": "AskReddit",
+        "s2": "todayilearned"
+    },
+    {
+        "score": 0.0,
+        "s1": "AskReddit",
+        "s2": "gaming"
+    },
+    {
+        "score": 0.0,
+        "s1": "AskReddit",
+        "s2": "videos"
+    },
+    {
+        "score": 0.0,
+        "s1": "AskReddit",
+        "s2": "pics"
+    },
+    {
+        "score": 0.0,
+        "s1": "AskReddit",
+        "s2": "science"
+    },
+    {
+        "score": 0.0,
+        "s1": "AskReddit",
+        "s2": "funny"
+    },
+    {
+        "score": 0.0,
+        "s1": "funny",
+        "s2": "movies"
+    },
+    {
+        "score": 0.0,
+        "s1": "funny",
+        "s2": "IAmA"
+    },
+    {
+        "score": 0.0,
+        "s1": "funny",
+        "s2": "videos"
+    },
+    {
+        "score": 0.0,
+        "s1": "funny",
+        "s2": "worldnews"
+    },
+    {
+        "score": 0.0,
+        "s1": "funny",
+        "s2": "todayilearned"
+    },
+    {
+        "score": 0.0,
+        "s1": "funny",
+        "s2": "gaming"
+    },
+    {
+        "score": 0.0,
+        "s1": "funny",
+        "s2": "AskReddit"
+    },
+    {
+        "score": 0.0,
+        "s1": "funny",
+        "s2": "pics"
+    },
+    {
+        "score": 0.0,
+        "s1": "funny",
+        "s2": "science"
+    },
+    {
+        "score": 0.0,
+        "s1": "todayilearned",
+        "s2": "movies"
+    },
+    {
+        "score": 0.0,
+        "s1": "todayilearned",
+        "s2": "IAmA"
+    },
+    {
+        "score": 0.0,
+        "s1": "todayilearned",
+        "s2": "videos"
+    },
+    {
+        "score": 0.0,
+        "s1": "todayilearned",
+        "s2": "worldnews"
+    },
+    {
+        "score": 0.0,
+        "s1": "todayilearned",
+        "s2": "gaming"
+    },
+    {
+        "score": 0.0,
+        "s1": "todayilearned",
+        "s2": "AskReddit"
+    },
+    {
+        "score": 0.0,
+        "s1": "todayilearned",
+        "s2": "pics"
+    },
+    {
+        "score": 0.0,
+        "s1": "todayilearned",
+        "s2": "science"
+    },
+    {
+        "score": 0.0,
+        "s1": "todayilearned",
+        "s2": "funny"
+    },
+    {
+        "score": 0.0,
+        "s1": "science",
+        "s2": "movies"
+    },
+    {
+        "score": 0.0,
+        "s1": "science",
+        "s2": "IAmA"
+    },
+    {
+        "score": 0.0,
+        "s1": "science",
+        "s2": "worldnews"
+    },
+    {
+        "score": 0.0,
+        "s1": "science",
+        "s2": "todayilearned"
+    },
+    {
+        "score": 0.0,
+        "s1": "science",
+        "s2": "gaming"
+    },
+    {
+        "score": 0.0,
+        "s1": "science",
+        "s2": "videos"
+    },
+    {
+        "score": 0.0,
+        "s1": "science",
+        "s2": "pics"
+    },
+    {
+        "score": 0.0,
+        "s1": "science",
+        "s2": "AskReddit"
+    },
+    {
+        "score": 0.0,
+        "s1": "science",
+        "s2": "funny"
+    },
+    {
+        "score": 0.0,
+        "s1": "worldnews",
+        "s2": "movies"
+    },
+    {
+        "score": 0.0,
+        "s1": "worldnews",
+        "s2": "IAmA"
+    },
+    {
+        "score": 0.0,
+        "s1": "worldnews",
+        "s2": "videos"
+    },
+    {
+        "score": 0.0,
+        "s1": "worldnews",
+        "s2": "gaming"
+    },
+    {
+        "score": 0.15,
+        "s1": "worldnews",
+        "s2": "todayilearned"
+    },
+    {
+        "score": 0.0,
+        "s1": "worldnews",
+        "s2": "AskReddit"
+    },
+    {
+        "score": 0.0,
+        "s1": "worldnews",
+        "s2": "pics"
+    },
+    {
+        "score": 0.0,
+        "s1": "worldnews",
+        "s2": "science"
+    },
+    {
+        "score": 0.0,
+        "s1": "worldnews",
+        "s2": "funny"
+    },
+    {
+        "score": 0.6,
+        "s1": "pics",
+        "s2": "movies"
+    },
+    {
+        "score": 0.0,
+        "s1": "pics",
+        "s2": "IAmA"
+    },
+    {
+        "score": 0.0,
+        "s1": "pics",
+        "s2": "videos"
+    },
+    {
+        "score": 0.0,
+        "s1": "pics",
+        "s2": "worldnews"
+    },
+    {
+        "score": 0.0,
+        "s1": "pics",
+        "s2": "todayilearned"
+    },
+    {
+        "score": 0.0,
+        "s1": "pics",
+        "s2": "AskReddit"
+    },
+    {
+        "score": 0.0,
+        "s1": "pics",
+        "s2": "gaming"
+    },
+    {
+        "score": 0.0,
+        "s1": "pics",
+        "s2": "science"
+    },
+    {
+        "score": 0.0,
+        "s1": "pics",
+        "s2": "funny"
+    },
+    {
+        "score": 0.0,
+        "s1": "IAmA",
+        "s2": "movies"
+    },
+    {
+        "score": 0.0,
+        "s1": "IAmA",
+        "s2": "gaming"
+    },
+    {
+        "score": 0.0,
+        "s1": "IAmA",
+        "s2": "videos"
+    },
+    {
+        "score": 0.0,
+        "s1": "IAmA",
+        "s2": "worldnews"
+    },
+    {
+        "score": 0.0,
+        "s1": "IAmA",
+        "s2": "todayilearned"
+    },
+    {
+        "score": 0.6,
+        "s1": "IAmA",
+        "s2": "AskReddit"
+    },
+    {
+        "score": 0.0,
+        "s1": "IAmA",
+        "s2": "pics"
+    },
+    {
+        "score": 0.0,
+        "s1": "IAmA",
+        "s2": "science"
+    },
+    {
+        "score": 0.0,
+        "s1": "IAmA",
+        "s2": "funny"
+    },
+    {
+        "score": 0.0,
+        "s1": "gaming",
+        "s2": "movies"
+    },
+    {
+        "score": 0.0,
+        "s1": "gaming",
+        "s2": "IAmA"
+    },
+    {
+        "score": 0.0,
+        "s1": "gaming",
+        "s2": "videos"
+    },
+    {
+        "score": 0.0,
+        "s1": "gaming",
+        "s2": "worldnews"
+    },
+    {
+        "score": 0.0,
+        "s1": "gaming",
+        "s2": "todayilearned"
+    },
+    {
+        "score": 0.0,
+        "s1": "gaming",
+        "s2": "AskReddit"
+    },
+    {
+        "score": 0.0,
+        "s1": "gaming",
+        "s2": "pics"
+    },
+    {
+        "score": 0.0,
+        "s1": "gaming",
+        "s2": "science"
+    },
+    {
+        "score": 0.0,
+        "s1": "gaming",
+        "s2": "funny"
+    },
+    {
+        "score": 0.0,
+        "s1": "videos",
+        "s2": "movies"
+    },
+    {
+        "score": 0.0,
+        "s1": "videos",
+        "s2": "IAmA"
+    },
+    {
+        "score": 0.6,
+        "s1": "videos",
+        "s2": "worldnews"
+    },
+    {
+        "score": 0.0,
+        "s1": "videos",
+        "s2": "todayilearned"
+    },
+    {
+        "score": 0.0,
+        "s1": "videos",
+        "s2": "gaming"
+    },
+    {
+        "score": 0.0,
+        "s1": "videos",
+        "s2": "AskReddit"
+    },
+    {
+        "score": 0.0,
+        "s1": "videos",
+        "s2": "pics"
+    },
+    {
+        "score": 0.0,
+        "s1": "videos",
+        "s2": "science"
+    },
+    {
+        "score": 0.0,
+        "s1": "videos",
+        "s2": "funny"
+    },
+    {
+        "score": 0.0,
+        "s1": "movies",
+        "s2": "IAmA"
+    },
+    {
+        "score": 0.0,
+        "s1": "movies",
+        "s2": "videos"
+    },
+    {
+        "score": 0.0,
+        "s1": "movies",
+        "s2": "worldnews"
+    },
+    {
+        "score": 0.0,
+        "s1": "movies",
+        "s2": "todayilearned"
+    },
+    {
+        "score": 0.0,
+        "s1": "movies",
+        "s2": "gaming"
+    },
+    {
+        "score": 0.0,
+        "s1": "movies",
+        "s2": "AskReddit"
+    },
+    {
+        "score": 0.0,
+        "s1": "movies",
+        "s2": "pics"
+    },
+    {
+        "score": 0.0,
+        "s1": "movies",
+        "s2": "science"
+    },
+    {
+        "score": 0.0,
+        "s1": "movies",
+        "s2": "funny"
+    }
+]

@@ -2,9 +2,19 @@
 
 This project attempts to create a similarity metric by aggregating three types of similarity: User similarity, Text Similarity, and Meta Similarity.
 
+# Instructions for Professor
+
+Since all generated data files are much too large to actually package, we've just put our sample similarities inside the results folder. To run the program just type the following:
+
+1. cd results
+2. python aggregate.py
+3. cat results.json
+
 # Running Scripts
 
 In order to properly aggregate data, there are two different types of data sources to pull from. The first is a BigQuery and the other is the Reddit API. The BigQuery data is used in the User and Text Similarity. The Reddit API is used for meta similarity.
+
+The BigQuery file is NOT included in the submission because it's too large.
 
 ### User and Text Similarity
 

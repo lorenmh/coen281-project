@@ -1,7 +1,7 @@
 #!/DCNFS/applications/cdh/5.6/app/spark-1.5.0-cdh5.6.0/bin/spark-submit
 
 from pyspark import SparkContext, SparkConf
-import itertools, math
+import itertools, math, json
 from ast import literal_eval as make_tuple
 
 conf = SparkConf()
@@ -18,8 +18,9 @@ data = data.map(lambda x: map(lambda s: str(s), x[1]))
 
 # print(data.take(5))
 
-count = data.count()
-support = count * 0.002
+# count = data.count()
+# print(count)
+support = 	0.00
 print(support)
 
 #transactions = data.map(lambda line: line.strip().split(' '))
@@ -66,9 +67,17 @@ while setSize > 1:
 					sims[fis[::-1]] *= freq_item_set[setSize][fis]/float(freq_item_set[setSize-1][item])
 				else:
 					sims[fis] = freq_item_set[setSize][fis]/float(freq_item_set[setSize-1][item])
+					print(fis, sims[fis])
 	setSize -= 1
 
+print(len(sims))
+simJSON = []
 for pair in sims:
-	print(pair, math.sqrt(sims[pair]))
+	a,b = pair
+	simJSON += [{ "s1": a, "s2": b, "score": math.sqrt(sims[pair]) }]
+	print(a, b, math.sqrt(sims[pair]))
+
+with open('data.json', 'w') as outfile:
+    json.dump(simJSON, outfile)
 
 sc.stop()
